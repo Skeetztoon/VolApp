@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\51358974b54fdd5ce661d94405404840\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\874af1def1718a2dc178814502462578\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\383e447c4a34e7bee284ab97f792d86b\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
@@ -92,22 +92,22 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\DanilaIurlov\.gradle\caches\tr
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\8e7d75848ec928ad180d922d17932652\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\f115fa81cb2bc4fe0553d8725066f3ba\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\8926444f844ec3245b121aa6cdce808e\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:2:11-69
@@ -146,7 +146,7 @@ ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main
 	android:name
 		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:10:5-46:19
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:10:5-44:19
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\488519bf88b141369e1f2b3fffc88e8e\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\488519bf88b141369e1f2b3fffc88e8e\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DanilaIurlov\.gradle\caches\transforms-3\3229d8dbfb0c633e276edfd3e6294908\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -230,51 +230,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Da
 	android:dataExtractionRules
 		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:12:9-65
 activity#volapp.example.volonter.Account
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:22:9-24:40
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:23:13-59
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:21:13-59
 activity#volapp.example.volonter.Events
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:25:9-27:40
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:24:13-58
+activity#volapp.example.volonter.MyEventsActivity
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:26:9-27:39
 	android:exported
 		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:26:13-58
-activity#volapp.example.volonter.MyEventsActivity
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:28:9-29:39
-	android:exported
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:29:13-37
-	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:28:19-74
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:26:19-74
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:30:9-32:59
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:28:9-30:59
 	android:theme
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:31:13-76
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:29:13-76
 activity#volapp.example.volonter.Authorization
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:33:9-41:20
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:31:9-39:20
 	android:exported
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:35:13-36
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:34:13-65
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:32:13-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:37:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:43:9-45:57
+ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:41:9-43:57
 	android:resource
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:45:13-54
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:43:13-54
 	android:name
-		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:44:13-43
+		ADDED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml:42:13-43
 uses-sdk
 INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\DanilaIurlov\Desktop\Volonter-new-main\Volonter\app\src\main\AndroidManifest.xml

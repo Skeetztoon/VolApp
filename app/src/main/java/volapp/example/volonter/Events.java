@@ -190,7 +190,7 @@ public class Events extends AppCompatActivity {
         EditText organizer = activity_new_events.findViewById(R.id.organizer_field);
         EditText place = activity_new_events.findViewById(R.id.place_field);
         Spinner direction = activity_new_events.findViewById(R.id.direction_spinner);
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.napravlenie, android.R.layout.simple_spinner_dropdown_item);
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.dir, android.R.layout.simple_spinner_dropdown_item);
         direction.setAdapter(adapter);
 
         dialog.setNegativeButton("Отменить", new DialogInterface.OnClickListener() {

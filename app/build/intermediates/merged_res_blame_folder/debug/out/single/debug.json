@@ -16,12 +16,16 @@
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\drawable_button_dark_style.xml.flat",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\drawable\\button_dark_style.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -48,12 +52,12 @@
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\layout_activity_my_events.xml.flat",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_my_events.xml"
-    },
-    {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\layout_activity_my_events.xml.flat",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_my_events.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\font_nunito.xml.flat",
@@ -68,16 +72,24 @@
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\drawable\\circular_progress_bar.xml"
     },
     {
+        "merged": "com.example.volonter.app-merged_res-40:/layout_activity_authorization.xml.flat",
+        "source": "com.example.volonter.app-main-42:/layout/activity_authorization.xml"
+    },
+    {
+        "merged": "com.example.volonter.app-merged_res-40:/layout_activity_new_events.xml.flat",
+        "source": "com.example.volonter.app-main-42:/layout/activity_new_events.xml"
+    },
+    {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\layout_my_event_item.xml.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\my_event_item.xml"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\font_nunito_extralight.xml.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\font\\nunito_extralight.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\drawable_button_style.xml.flat",
@@ -86,10 +98,6 @@
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\drawable_gold.png.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\drawable\\gold.png"
-    },
-    {
-        "merged": "com.example.volonter.app-merged_res-40:/drawable_button_dark_style.xml.flat",
-        "source": "com.example.volonter.app-main-42:/drawable/button_dark_style.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\layout_activity_settings.xml.flat",
@@ -102,10 +110,6 @@
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\drawable_item_card_background.jpg.flat",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\drawable\\item_card_background.jpg"
-    },
-    {
-        "merged": "com.example.volonter.app-merged_res-40:/layout_activity_account.xml.flat",
-        "source": "com.example.volonter.app-main-42:/layout/activity_account.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",

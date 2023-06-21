@@ -13,8 +13,6 @@
         android:id="@+id/authorization_text"
         android:layout_width="match_parent"
         android:layout_height="330dp"
-        android:fontFamily="@font/adamina"
-        android:textColor="@color/purple_700"
         android:background="@color/primeColorDark"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

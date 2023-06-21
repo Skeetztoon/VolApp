@@ -37,10 +37,6 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Volonter" >
-
-        <!-- <activity -->
-        <!-- android:name="volapp.example.volonter.Settings" -->
-        <!-- android:exported="false" /> -->
         <activity
             android:name="volapp.example.volonter.Account"
             android:exported="false" />

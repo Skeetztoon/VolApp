@@ -8,12 +8,12 @@
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_account.xml",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_account.xml"
+        "merged": "com.example.volonter.app-mergeDebugResources-39:/layout/activity_authorization.xml",
+        "source": "com.example.volonter.app-main-42:/layout/activity_authorization.xml"
     },
     {
-        "merged": "com.example.volonter.app-mergeDebugResources-39:/layout/activity_account.xml",
-        "source": "com.example.volonter.app-main-42:/layout/activity_account.xml"
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_account.xml",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_account.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\register_window.xml",
@@ -28,19 +28,23 @@
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_my_events.xml",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_my_events.xml"
+        "merged": "com.example.volonter.app-mergeDebugResources-39:/layout/activity_new_events.xml",
+        "source": "com.example.volonter.app-main-42:/layout/activity_new_events.xml"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_authorization.xml",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_authorization.xml"
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\event_item.xml",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\event_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_my_events.xml",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_my_events.xml"
     },
     {
         "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_events.xml",
         "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_events.xml"
     },
     {
-        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\event_item.xml",
-        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\event_item.xml"
+        "merged": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-mergeDebugResources-39:\\layout\\activity_authorization.xml",
+        "source": "C:\\Users\\DanilaIurlov\\.gradle\\daemon\\7.5\\com.example.volonter.app-main-42:\\layout\\activity_authorization.xml"
     }
 ]
