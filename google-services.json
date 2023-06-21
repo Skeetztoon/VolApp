@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535084633430",
+    "firebase_url": "https://volapp-669c3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "volapp-669c3",
+    "storage_bucket": "volapp-669c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535084633430:android:1dfac077e26ba84e8a5af7",
+        "android_client_info": {
+          "package_name": "com.skeetztoon.volapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535084633430-lptiv6gd8mioke63jusmj483n6p9ao2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7yXtcH1JLW4ZXj60KefJZiw7HHSf4nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535084633430-lptiv6gd8mioke63jusmj483n6p9ao2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
