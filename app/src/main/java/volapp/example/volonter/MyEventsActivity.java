@@ -86,8 +86,6 @@ public class MyEventsActivity extends AppCompatActivity{
             }
         });
 
-
-
         // Карточки с мероприятиями
         eventsRef = FirebaseDatabase.getInstance().getReference().child("EventApplication");
         recyclerView = findViewById(R.id.my_recycler_events);
@@ -123,7 +121,6 @@ public class MyEventsActivity extends AppCompatActivity{
                         user.child(model.getMem_id()).child("points").setValue(ServerValue.increment(50));
                         currEvent = db.getReference("EventApplication").child(model.getKey());
                         currEvent.removeValue();
-//                        Snackbar.make(this,"Спасибо за отзыв", Snackbar.LENGTH_SHORT).show();
                     }
                 });
 
@@ -135,7 +132,6 @@ public class MyEventsActivity extends AppCompatActivity{
                         db = FirebaseDatabase.getInstance();
                         currEvent = db.getReference("EventApplication").child(model.getKey());
                         currEvent.removeValue();
-//                        Snackbar.make(this,"Спасибо за отзыв", Snackbar.LENGTH_SHORT).show();
                     }
                 });
             }
